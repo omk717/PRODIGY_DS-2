@@ -40,5 +40,14 @@ Through data cleaning and EDA, we identified several key factors influencing the
 
 # Technologies Used
 Programming Languages: Python
+
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
 Tools: Jupyter Notebook
+
+# Conclution : 
+The data cleaning and EDA process enabled us to uncover critical factors influencing the survival of Titanic passengers. Key determinants of survival included gender, passenger class, age, fare, and family size. These insights not only help in understanding the tragic event of the Titanic but also serve as a valuable exercise in the application of data science techniques to real-world datasets.
+
+By thoroughly cleaning the data and performing detailed EDA, we have laid a strong foundation for any further analysis, such as predictive modeling or hypothesis testing. This project underscores the importance of data preprocessing and exploratory analysis in deriving meaningful insights from complex datasets.
+
+
